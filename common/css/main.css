@@ -747,6 +747,7 @@ footer {
 .activeButton {
   background: linear-gradient(45deg, rgba(161, 146, 206, 0.5) 0%, rgba(172, 199, 238, 0.5) 100%);
   color: white;
+  box-shadow: none;
 }
 
 .mainSLide7_title {
@@ -961,6 +962,7 @@ footer {
 .activeButtonVascepa {
   background: linear-gradient(45deg, rgba(161, 146, 206, 0.5) 0%, rgba(172, 199, 238, 0.5) 100%);
   color: white;
+  box-shadow: none;
 
 }
 
