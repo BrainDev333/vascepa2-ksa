@@ -100,8 +100,8 @@ $(".firstblock__ref").on("click", function () {
   $(".swiper-container-h").prepend(`
      <div class="shadow">
 
-    <div class="modal" style="width: 66%; height: 38%;">
-      <div class="exit_x" style="right: -10.5%;"></div>
+    <div class="modal" style="width: 80%;top:45%">
+      <div class="exit_x" style="right: -8.5%;"></div>
       <div style="display:flex; justify-content : center; margin-top: -2rem;">
         <img src="/common/images/text.png" style="width : 100%">
 
